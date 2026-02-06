@@ -56,7 +56,7 @@ groups:
       - client
       - router
 
-monitoring_config:
+monitoring_targets:
   - node: client
     targets:
       - port: 22
