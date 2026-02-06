@@ -55,9 +55,3 @@ groups:
       - server
       - client
       - router
-
-monitoring_targets:
-  - node: client
-    targets:
-      - port: 22
-        interface: eth0 
